@@ -15,7 +15,7 @@ x N/A - I plan to use tux
 _ NO - Not Yet
 
 3. Please provide a link to the repository you are using for this class.
-- 
+- https://github.com/joshtrus/2025-cs883-class/tree/main
 
 4. Briefly describe what you want to get out of this class.
 - A better understanding of the systems side of programming
