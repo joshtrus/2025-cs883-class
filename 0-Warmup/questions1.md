@@ -10,8 +10,9 @@ Please provide answers to these questions using markdown notation and place them
 - Somthing else (put name here)
 
 2. I have installed my virtual machine, tested it, feel comfortable using it, and validated that the required software is installed:
+
+ x N/A - I plan to use tux
 - YES
-  x N/A - I plan to use tux
 - NO - Not Yet
 
 3. Please provide a link to the repository you are using for this class.
